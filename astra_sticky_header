@@ -1,0 +1,7 @@
+//astra free version sticky header css code
+.main-header-bar{
+   position:fixed;
+   top:0px;
+   padding-top:20px;
+   width:100%;
+}
