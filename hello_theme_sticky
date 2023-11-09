@@ -1,0 +1,7 @@
+.elementor-23{
+	background-color: white !important;
+   position:fixed;
+   top:0px;
+   padding-top:20px;
+   width:100%;
+}
